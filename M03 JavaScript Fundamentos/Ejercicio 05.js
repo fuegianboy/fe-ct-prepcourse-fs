@@ -73,7 +73,7 @@ function esVocal(letra) {
       return("Es vocal");
    } else {
       return("Dato incorrecto");
-      //////////////////////////// Hasta aca estuve trabajando
+      //
    }
 }
 
